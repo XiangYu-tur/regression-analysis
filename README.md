@@ -1,18 +1,3 @@
----
-header-includes:
-- \usepackage{xeCJK}
-- \usepackage{fontspec}
-- \setCJKmainfont{微軟正黑體}
-- \XeTeXlinebreaklocale "zh"
-- \XeTeXlinebreakskip = 0pt plus 1pt
-
-title: "Regression analysis 期末專題計畫書"
-author: "吳翔宇"
-output: 
-  pdf_document:
-    latex_engine: xelatex
----
-
 ```{r global options, include=FALSE}
 knitr::opts_chunk$set(warning = FALSE,message = FALSE,fig.showtext = TRUE)
 library(showtext)
