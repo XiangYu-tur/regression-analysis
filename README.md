@@ -1,10 +1,3 @@
-```{r global options, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE,message = FALSE,fig.showtext = TRUE)
-library(showtext)
-showtext_auto()
-options(digits = 4,scipen = 999)
-```
-            
 # 一、研究動機
             
 隨著科技發展，醫療衛生的進步，人的預期壽命不斷向上提高，但隨著科技進步貧富差距也隨之擴大。這狀況也反應在預期壽命上，有的人能享有世界上最好醫療資源，但也有生個小病都能致命的狀況發生。因應各國不同的醫療政策及經濟環境，不同國家人民的預期壽命也可能天差地遠。
